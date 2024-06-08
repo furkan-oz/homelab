@@ -1,0 +1,53 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/bookmarks
+# icons found here https://github.com/walkxcode/dashboard-icons
+# icons found here https://pictogrammers.com/library/mdi/
+# icons found here https://simpleicons.org/
+
+- Developer:
+    - Github:
+        - icon: github-light.png
+          href: https://github.com/
+    - Cloudflare:
+        - icon: cloudflare.png
+          href: https://dash.cloudflare.com/
+    - Fly.io:
+        - icon: fly-io.png
+          href: https://fly.io/dashboard
+    - Daily.dev:
+        - icon: https://avatars.githubusercontent.com/u/41463883?s=200&v=4
+          href: https://app.daily.dev/
+- AI:
+    - GPT:
+        - icon: chatgpt.png
+          href: https://chatgpt.com/
+    - Gemini:
+        - icon: https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Bard_logo.svg
+          href: https://gemini.google.com/
+    - Playground:
+        - icon: https://cdn.playground.com/logo/logo-icon-v1.png
+          href: https://playground.com/canvas
+- Entertainment:
+    - YouTube:
+        - icon: youtube.png
+          href: https://youtube.com/
+    - Twitch:
+        - icon: twitch.png
+          href: https://twitch.tv/directory/following/live
+    - Kick:
+        - icon: kick.png
+          href: https://kick.com/following
+- Other:
+    - JustWatch:
+        - icon: https://support.justwatch.com/hc/theming_assets/01HZKYD0TVPMJAG53MY3YVWGMQ
+          href: https://justwatch.com/
+    - Notion:
+        - icon: https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png
+          href: https://notion.so/[username]
+    - Artstation:
+        - icon: si-artstation-#13AFF0
+          href: https://artstation.com/
+    - Figma:
+        - icon: si-figma-#F24E1E
+          href: https://figma.com/

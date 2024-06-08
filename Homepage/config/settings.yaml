@@ -1,0 +1,41 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
+
+title: Homelab
+
+background:
+  image: https://cdna.artstation.com/p/assets/images/images/026/149/026/4k/guillem-h-pongiluppi-morgoth-vs-fingolfin-master2.jpg?1588011103 # artist: https://www.artstation.com/guillemhp
+  blur: sm # sm, md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  saturate: 100 # 0, 50, 100... see https://tailwindcss.com/docs/backdrop-saturate
+  brightness: 50 # 0, 50, 75... see https://tailwindcss.com/docs/backdrop-brightness
+  opacity: 100 # 0-100
+favicon: https://img.icons8.com/?size=100&id=nuPce-GYYZeC&format=png&color=000000
+
+theme: dark
+
+color: slate
+
+quicklaunch:
+  searchDescriptions: true
+  hideInternetSearch: true
+  showSearchSuggestions: true
+  hideVisitURL: true
+  provider: google
+
+hideVersion: true
+showStats: true
+
+layout:
+  Machines:
+    header: true
+    style: row
+    columns: 4
+  Apps:
+    header: true
+    style: row
+    columns: 4
